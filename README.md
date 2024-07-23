@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ozymandias
 
-Experienced Lead Application Developer with over 8 years of experience in software development and project leadership. Proven track record of improving application performance and leading successful ETL and Web projects at IBM. Skilled in Python, Scala, JavaScript, and cloud technologies. 
+Experienced Lead Application Developer with over 9 years of experience in software development and project leadership. Proven track record of improving application performance and leading successful ETL and Web projects at IBM. Skilled in Python, Scala, JavaScript, and cloud technologies. 
 
 - 🔭 I’m currently working at IBM
 - 🌱 I’m currently learning Data Science, AI and Cybersecurity.
