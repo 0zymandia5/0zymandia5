@@ -7,12 +7,13 @@ Experienced Lead Application Developer with over 9 years of experience in softwa
 - 👯 I’m looking to collaborate on Scala/Python projects of any kind.
 - 📫 Reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/iv%C3%A1n-gustavo-o-104042125/) [![Gmail](https://img.shields.io/badge/Email-me-red)](mailto:evean.warlock@gmail.com)
 
-## Tech Stack
+## Languages Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 <!--
 **0zymandia5/0zymandia5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
