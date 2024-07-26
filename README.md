@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Ozymandias
 
+![](https://komarev.com/ghpvc/?username=0zymandia5)
+
 Experienced Lead Application Developer with over 9 years of experience in software development and project leadership. Proven track record of improving application performance and leading successful ETL and Web projects at IBM. Skilled in Python, Scala, JavaScript, and cloud technologies. 
 
 - 🔭 I’m currently working at IBM
@@ -14,17 +16,7 @@ Experienced Lead Application Developer with over 9 years of experience in softwa
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-<!--
-**0zymandia5/0zymandia5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=0zymandia5&show_icons=true&theme=radical)
