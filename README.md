@@ -8,6 +8,7 @@ Experienced Lead Application Developer with over 9 years of experience in softwa
 - 🌱 I’m currently learning Data Science, AI and Cybersecurity.
 - 👯 I’m looking to collaborate on Scala/Python projects of any kind.
 - 📫 Reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/iv%C3%A1n-gustavo-o-104042125/) [![Gmail](https://img.shields.io/badge/Email-me-red)](mailto:evean.warlock@gmail.com)
+- Hire me [![UpWork profile]()](https://www.upwork.com/freelancers/~0169ee61b7ac52344a?mp_source=share)
 
 ## Languages Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
