@@ -4,7 +4,7 @@
 
 Experienced Lead Application Developer with over 9 years of experience in software development and project leadership. Proven track record of improving application performance and leading successful ETL and Web projects at IBM. Skilled in Python, Scala, JavaScript, and cloud technologies. 
 
-- 🔭 I’m currently working at IBM
+- 🔭 I’m currently working at Oracle
 - 🌱 I’m currently learning Data Science, AI and Cybersecurity.
 - 👯 I’m looking to collaborate on Scala/Python projects of any kind.
 - 📫 Reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/iv%C3%A1n-gustavo-o-104042125/) [![Gmail](https://img.shields.io/badge/Email-me-red)](mailto:evean.warlock@gmail.com)
