@@ -2,9 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=0zymandia5)
 
-Experienced Lead Application Developer with over 9 years of experience in software development and project leadership. Proven track record of improving application performance and leading successful ETL and Web projects. Skilled in Python, Scala, JavaScript, and cloud technologies. 
+Principal Data Scientist and AI Engineer with over 10 years of leadership in software development, AI solutions, and
+data enterprise systems. Specialized in integrating Large Language Models (LLMs), AI Agents, Custom GPTs, and
+Model Context Protocol (MCP) to automate enterprise-scale operational workflows. Strong track record as
+Application Tech Lead driving cross-functional engineering teams, modernizing ETL & Web architectures, enforcing
+Data Governance, and optimizing full SDLC operations.
 
-- 🔭 I’m currently working at Oracle
+- 🔭 I’m currently working at XXXXXx
 - 🌱 I’m currently learning Data Science, AI and Cybersecurity.
 - 👯 I’m looking to collaborate on Scala/Python projects of any kind.
 - 📫 Reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/iv%C3%A1n-gustavo-o-104042125/) [![Gmail](https://img.shields.io/badge/Email-me-red)](mailto:evean.warlock@gmail.com)
